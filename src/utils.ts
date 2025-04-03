@@ -50,7 +50,7 @@ class Logger {
       symbol: "",
       text: `\n🎉 Dear friends! 🎉\nIf you found this helpful, a ⭐ STAR ⭐ would be ${colors.bold(
         "GREATLY APPRECIATED"
-      )}! 🥰 \n━━\x1b]8;;https://github.com/NasaHack/make-public\x07🚀 ${colors.bold(
+      )}! 🥰 \n━━\x1b]8;;https://github.com/DevAbabil/make-public\x07🚀 ${colors.bold(
         "STAR ON GITHUB"
       )} 🚀\x1b]8;;\x07━━\n`,
     });
