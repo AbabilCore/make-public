@@ -1,6 +1,6 @@
 {
   "name": "make-public",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A simple tool to bypass CORS restrictions.",
   "bin": {
     "make-public": "dist/index.js"
