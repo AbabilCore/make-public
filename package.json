@@ -1,6 +1,6 @@
 {
   "name": "make-public",
-  "version": "1.0.4",
+  "version": "1.2.0",
   "description": "A simple tool to bypass CORS restrictions.",
   "bin": {
     "make-public": "dist/index.js"
@@ -41,6 +41,6 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "cutefetch": "^1.1.1"
+    "cutefetch": "^1.2.0"
   }
 }
